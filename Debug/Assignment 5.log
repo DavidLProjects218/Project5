@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\ece 370_visual studios\assignment 5\source.cpp(7): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: see previous definition of 'INFINITY'
+  Assignment 5.vcxproj -> C:\ECE 370_Visual Studios\Assignment 5\Debug\Assignment 5.exe
